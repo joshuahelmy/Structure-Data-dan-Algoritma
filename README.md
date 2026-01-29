@@ -1,2 +1,2 @@
 # Structure-Data-dan-Algoritma
-Tugas Semester 1
+Tugas Mandiri Semester 1
